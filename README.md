@@ -1,0 +1,2 @@
+# diamonds
+ predict diamonds  price
