@@ -1,2 +1,3 @@
 # diamonds
- predict diamonds  price
+ predict diamonds  price by machine learning algorithms
+ 
